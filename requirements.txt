@@ -1,7 +1,6 @@
 numpy
 pandas
-sklearn.neighbors.kde
-sklearn.metrics
-torch
+scikit-learn
 logging
 scipy
+torch
