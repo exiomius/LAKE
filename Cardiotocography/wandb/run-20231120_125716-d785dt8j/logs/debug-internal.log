@@ -65,3 +65,9 @@
 2023-11-20 12:57:48,936 DEBUG   SenderThread:807253 [sender.py:send_request():407] send_request: stop_status
 2023-11-20 12:57:48,975 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: internal_messages
 2023-11-20 12:57:53,107 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: status_report
+2023-11-20 12:57:58,108 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: status_report
+2023-11-20 12:58:03,109 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: status_report
+2023-11-20 12:58:03,935 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: stop_status
+2023-11-20 12:58:03,936 DEBUG   SenderThread:807253 [sender.py:send_request():407] send_request: stop_status
+2023-11-20 12:58:03,975 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: internal_messages
+2023-11-20 12:58:09,095 DEBUG   HandlerThread:807253 [handler.py:handle_request():146] handle_request: status_report
